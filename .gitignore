@@ -1,4 +1,5 @@
 # junk files
+*.jar
 .settings/
 bin/
 *.classpath
